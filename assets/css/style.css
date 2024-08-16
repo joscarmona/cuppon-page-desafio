@@ -1,0 +1,35 @@
+/* BODY */
+body{
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+}
+
+/* Color para background del nav y form */
+.background_success_personalizado{
+    background-color: #28a745;
+}
+
+/* Color para el texto de mayor tamaño del precio de los cupones */
+.text_color_success_personalizado{
+    color: #28a745;
+}
+
+/* Light Style de la letra roboto */
+.roboto_light{
+    font-weight: 300;
+}
+
+/* Medium Style de la letra roboto */
+.roboto_medium{
+    font-weight: 500;
+}
+
+/* Para el texto de color visualmente similar al color negro */
+.text_color_negro{
+    color: #212529;
+}
+
+/* Para el texto de color gris */
+.text_color_gris{
+    color: #707070;
+}
